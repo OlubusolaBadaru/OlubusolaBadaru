@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlubusolaBadaru
 - 👀 I’m interested in embedded systems design and  UI/UX
-- 🌱 I’m currently learning web and mobile design:UI/UX/FIGMA
+- 🌱 I’m currently learning web and mobile design:UI/UX, FIGMA
 - 💞️ I’m looking to collaborate with you all
 - 📫 How to reach me ...
 
