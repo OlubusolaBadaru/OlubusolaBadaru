@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OlubusolaBadaru
-- 👀 I’m interested in embedded systems design and  UI/UX
-- 🌱 I’m currently learning web and mobile design:UI/UX, FIGMA
+- 👋 Hi, I’m @Olubusola
+- 👀 A UI/UX designer who loves turning ideas into simple, user-friendly products. 
+- 🌱 Always learning and building.
 - 💞️ I’m looking to collaborate with you all
-- 📫 How to reach me ...
+- 📫 How to reach me ...omowunmiabosedejimoh@gmail.com 
 
 <!---
 OlubusolaBadaru/OlubusolaBadaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
